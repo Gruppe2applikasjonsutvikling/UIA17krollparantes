@@ -13,4 +13,4 @@ Victoria Garbar
 https://github.com/VicGarbar
 
 Johannes S. Østevik
-(github profil kommer)
+https://github.com/johannesso
