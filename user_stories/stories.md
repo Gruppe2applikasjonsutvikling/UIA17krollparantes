@@ -1,4 +1,5 @@
-Bente: 
+Bente:
+
 User story 1.
 Generell task-manager som viser kortsiktige og langsiktige gjøremål, der viktigste gjøremålene er mest fokusert på.
 
