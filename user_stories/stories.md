@@ -2,6 +2,7 @@
 Marit Riis Haugen
 ---------------
 
+
 Som en bruker vil man gjerne ha en task-liste som kan knyttes opp mot en kalender, slik at man kan sette opp deadlines eller tidsbaserte to-do lister. 
 
 Man vil gjerne kunne sette opp forskjellige typer to-do bullets (for eksempel: møte, deadline...)
