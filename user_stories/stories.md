@@ -1,4 +1,5 @@
 
+
 Bente:
 
 User story 1.
@@ -29,4 +30,12 @@ Som en bruker er det ikke kjekt eller produktivt å sette opp samme to-do punkte
 Eksempel på gjentagende to-do's: Husleie, regninger, spinningtimer...
 
 Det er også viktig at å krysse ut et to-do punkt er fornøyelig. Da har man jo lyst til å gjøre mer! 
+
+
+<h1>User stories:</h1>  
+  1: Bruker kan legge inn oppgaver <br>
+  2: Bruker kan sette deadline for oppgavene <br>
+  3: Bruker kan sette et prioriteringsnivå for oppgavene <br>
+  4: Bruker kan markere om oppgaven er i gang, er utsatt, eller er ferdig <br>
+  5: Bruker kan legge underoppgaver til hovedoppgaven <br>
 
