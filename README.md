@@ -14,3 +14,10 @@ https://github.com/VicGarbar
 
 Johannes S. Østevik
 https://github.com/johannesso
+
+
+-----
+Roadmap
+-----
+
+https://trello.com/b/0caYeVia/feature-map  
