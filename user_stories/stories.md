@@ -1,4 +1,12 @@
 
+Victoria Garbar
+1.	Det er en personlig task manager.
+2.	Brukeren kan opprette flere taskmapper (eks.: arbeid, hjem, trening)
+3.	Brukeren kan krysse av det han/hun har gjort og utsette det som var ikke gjort.
+4.	Brukeren kan laste inn bilder/filer, som for eksempel mood board til en arbeids oppgave 
+5.	Oppgave liste er knyttet til kalenderen (dato og tid)
+6.	Brukeren kan endre/slette oppgaver
+=======
 
 Bente:
 
@@ -38,4 +46,5 @@ Det er også viktig at å krysse ut et to-do punkt er fornøyelig. Da har man jo
   3: Bruker kan sette et prioriteringsnivå for oppgavene <br>
   4: Bruker kan markere om oppgaven er i gang, er utsatt, eller er ferdig <br>
   5: Bruker kan legge underoppgaver til hovedoppgaven <br>
+
 
