@@ -16,11 +16,18 @@ Johannes S. Østevik
 https://github.com/johannesso
 
 
------
-Roadmap
+
 -----
 
-https://trello.com/b/0caYeVia/feature-map  
+Project board: https://trello.com/b/VdHqhLPt  
+
+
+-----
+
+Roadmap:  https://trello.com/b/0caYeVia  
+
+
+-----
 
 
 Our product will be a task list connected to the Google Calendar API.  
@@ -30,5 +37,6 @@ The user will be able to log in to a mobile or web application to manage their t
 
 Our task list features a month- and day-view that quickly gives you a glimpse at what you need to do this month and the next. It will alert you when a deadline is near, and migrate unfinished tasks without deadlines.  
 
-Project board: https://trello.com/b/VdHqhLPt/uia17-kr%C3%B8llparantes 
+-----
+
 Our project group has 12 story points per week.
