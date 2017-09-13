@@ -29,3 +29,5 @@ You will have the possebility to add tasks, set deadlines and mark tasks by impo
 The user will be able to log in to a mobile or web application to manage their tasks and deadlines, and will be able to share their task lists with other users.  
 
 Our task list features a month- and day-view that quickly gives you a glimpse at what you need to do this month and the next. It will alert you when a deadline is near, and migrate unfinished tasks without deadlines.  
+
+Project board: https://trello.com/b/VdHqhLPt/uia17-kr%C3%B8llparantes 
